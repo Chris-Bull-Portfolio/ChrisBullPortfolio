@@ -16,4 +16,3 @@ I'm a recent graduate of a Data Analysis Skills Bootcamp and am looking to secur
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
-![Designer (14)](https://github.com/user-attachments/assets/c31ed178-eae5-4fa7-a041-3255d274d78c)
