@@ -9,12 +9,11 @@ I'm a recent graduate of a Data Analysis Skills Bootcamp and am looking to secur
 * 🌍  I'm based in Warrington
 * 🖥️  See my portfolio at [insert google sites link](http://googlesiteslink)
 * 🧠  I'm learning new functions and skills within Python
-* ⚡  I have more sets of dice than I do pair of socks
+* ⚡  I have more sets of dice than I do pairs of socks
 
 ### Skills
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
-![Data Banner](https://github.com/user-attachments/assets/05856a9e-e9bc-42eb-8ed2-5c7c8db3e997)
-![Data Banner](https://github.com/user-attachments/assets/2e18b064-84fb-492b-83ce-6a1fbce8333c)
+<img src="https://github.com/user-attachments/assets/e920b751-a988-4c48-a825-ac06da7985a5" alt="Banner">
