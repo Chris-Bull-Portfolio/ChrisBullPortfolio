@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 My Portfolio
 ------------
 
-I'm a recent graduate of a Data Analysis Skills Bootcamp and am looking to secure a role within the data industry.
+I'm a recent graduate of a Data Analysis Skills Bootcamp and am looking to secure a role within the data industry, preferably using Python.
 
 * 🌍  I'm based in Warrington
 * 🖥️  See my portfolio at [insert google sites link](http://googlesiteslink)
@@ -16,3 +16,5 @@ I'm a recent graduate of a Data Analysis Skills Bootcamp and am looking to secur
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
+![Data Banner](https://github.com/user-attachments/assets/05856a9e-e9bc-42eb-8ed2-5c7c8db3e997)
+![Data Banner](https://github.com/user-attachments/assets/2e18b064-84fb-492b-83ce-6a1fbce8333c)
